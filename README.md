@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam1245" alt="shivam1245" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Data Analysis,**
 
 - 👯 I’m looking to collaborate on **AI model**
 
 - 🤝 I’m looking for help with **DBMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam1245](https://github.com/shivam1245)
-
-- 📝 I regularly write articles on [medium](medium)
 
 - 💬 Ask me about **python, react, web development**
 
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam1245&show_icons=true&locale=en&layout=compact" alt="shivam1245" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam1245&show_icons=true&locale=en" alt="shivam1245" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1245&" alt="shivam1245" /></p>
